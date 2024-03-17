@@ -1,7 +1,7 @@
 
 Hello everyone, I'm Uddeshya. My skill set encompasses:
 
-Full Stack Web Development -> Proficient in JavaScript, MongoDB, SQL, Express JS, React JS, Node JS, HTML, CSS, and Tailwind CSS.
+Full Stack Development -> Proficient in React Native & React Js, FireBase,  JavaScript, MongoDB, SQL, Express JS, Node JS, HTML, CSS, and Tailwind CSS.
 - 💞️ I’m looking to collaborate on ...PROJECT BUILDING
 - 📫 How to reach me uddeshyac9@gmail.com
 
