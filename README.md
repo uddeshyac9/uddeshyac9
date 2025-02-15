@@ -1,7 +1,5 @@
 
-Hello everyone, I'm Uddeshya. My skill set encompasses:
-
-Full Stack Development -> Proficient in React Native & React Js, FireBase,  JavaScript, MongoDB, SQL, Express JS, Node JS, HTML, CSS, and Tailwind CSS.
+Hello everyone, I'm Uddeshya a full-stack developer with robust expertise in both web and mobile app development. I build dynamic web applications using ReactJS and craft seamless, cross-platform mobile apps with React Native. I also worked high-performance backends in Go, manage scalable databases with MongoDB, and integrate payment (Razorpay) and real-time notification systems (Firebase) & Manage Serveres on AWS. My work ensures a seamless and engaging user experience across digital platforms.
 - 💞️ I’m looking to collaborate on ...PROJECT BUILDING
 - 📫 How to reach me uddeshyac9@gmail.com
 
